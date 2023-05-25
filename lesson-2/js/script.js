@@ -13,6 +13,6 @@ if (userName === null) {
     alert(`Good bay, ${userGuest}!`)
 } else if (userName.trim()) {
     alert(`Hello, ${userName}! How are you?`)
-} else if (userName.trim() === "") {
+} else {
     alert(`Hello, ${userGuest}! Name can't be empty!`)
 }
