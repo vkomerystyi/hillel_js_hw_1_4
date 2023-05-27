@@ -25,6 +25,7 @@
 /* =============== */
 body {
     font-family: "Roboto";
+    background: #d9e7ee;
 }
 .wrapper {
     min-height: 100%;
@@ -48,8 +49,8 @@ body {
     left: 0;
     top: 0;
     padding: 15px;
-    background: rgb(64 224 208);
-    opacity: 0.8;
+    background-color: #fff;
+    /* opacity: 0.8; */
     z-index: 50;
     text-align: center;
     font-size: 30px;
